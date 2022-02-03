@@ -3,6 +3,8 @@ Northstar mod template
 
 # READ!
 
+Please change the folder name of Template.Mod to your mods name.
+
 Please modify the manifest.json and mod.json and change everything to your mods needs.
 Make sure the version between them both is the same.
 
