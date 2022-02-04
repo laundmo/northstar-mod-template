@@ -1,5 +1,5 @@
 # northstar-mod-template
-Northstar mod template
+Northstar mod template for northstar.thunderstore.io compatible mods.
 
 # READ!
 
