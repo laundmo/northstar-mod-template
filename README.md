@@ -9,6 +9,6 @@ Please modify the manifest.json and mod.json and change everything to your mods 
 Make sure the version between them both is the same.
 
 Make sure you change the LICENSE file too, its currently a 
-MIT license and you need to cahnge the COPYRIGHT_HOLDER to your name.
+MIT license and you need to change the COPYRIGHT_HOLDER to your name.
 
 There is a empty example Squirrel script in mods/Example.Mod/mod/scripts/vscripts/. You likely want to rename and modify or replace that file.
