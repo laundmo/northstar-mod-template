@@ -4,6 +4,6 @@
     "website_url": "",
     "description": "Example mod",
     "dependencies": [
-        "northstar-Northstar-1.6.0"
+        "northstar-Northstar-1.8.0"
     ]
 }
