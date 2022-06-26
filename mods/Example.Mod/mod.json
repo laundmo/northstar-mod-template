@@ -4,6 +4,7 @@
 	"LoadPriority": 2,
 	"RequiredOnClient": true,
 	"Version": "0.0.1",
+	"DownloadLink": "https://northstar.thunderstore.io/",
 	
 	"Scripts": [
 		{
